@@ -1,0 +1,1 @@
+thư mục common chứa các mẫu html để sử dụng chung
